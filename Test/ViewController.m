@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"暂缓区");
+    NSLog(@"没问题吧");
 }
 
 
